@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Husain (@mastercam123)
+- 👋 Hi, I’m Husain (@mastercam123) and works as AWS Cloud Architect
 - 👀 anything around the cloud interest me
-- 🌱 growing my skills into DevOps
+- 🌱 growing my skills into DevSecOps
 - 💞️ I’m looking to collaborate on anything (feel free to connect to me)
 - 📫 reachable at k4mbingoce@yahoo.com (no fear it is not a spam mail, it's just the email i've been using since I'm 13)
 
