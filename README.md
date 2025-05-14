@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Husain (@mastercam123) and works as AWS Cloud Architect
+- 👋 Hi, I’m Husain (@sainyusuf) and works as AWS Cloud Architect
 - 👀 anything around the cloud interest me
 - 🌱 growing my skills into DevSecOps, FinOps, Cloud Architect ( whatever it is in the cloud )
 - 💞️ I’m looking to collaborate on anything (feel free to connect to me)
